@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--
-**pendragonzo/pendragonzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**pendragonzo/pendragonzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on a text editor
 - 🌱 I’m currently learning python
