@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on a text editor
-- 🌱 I’m currently learning python
+- 🔭 I’m currently working on a variety of random stuff that interestes me at the time
+- 🌱 I’m currently learning programming
 - 👯 I’m looking to collaborate on absolutely nothing
 - 🤔 I’m looking for help with absolutely nothing
 - 💬 Ask me about why i am trying to learn how to code by hacking things together until it all makes sense
